@@ -4,7 +4,7 @@
 - 🎓 BASc Systems Design Engineering @ University of Waterloo (’29)  
 - 💼 Software Engineering Intern @ MAP360Global (Jun – Aug ’24)  
 - 🔧 Full-Stack App Dev @ Ontario One Call (Jan – May ’25)  
-- 💬 Passionate about **AI/ML**, **C#/.NET**, **Azure & Dynamics 365**, and **Web Dev**  
+- 💬 Passionate about **AI/ML**, **C#/.NET**, **Azure & Dynamics 365**, and **Software Architecture**  
 - 🌱 When I’m not learning how to build smarter apps, you’ll find me hiking, reading, or playing soccer with friends!
 
 ---
