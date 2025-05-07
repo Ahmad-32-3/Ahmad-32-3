@@ -59,7 +59,7 @@
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-177252310/) - muhammad-ahmad-177252310
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-177252310/) <- Connect with me on linkedin @ www.linkedin.com/in/muhammad-ahmad-177252310
 
 ✉️ m48ahmad@uwaterloo.ca
 
