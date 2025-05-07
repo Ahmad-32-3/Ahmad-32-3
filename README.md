@@ -59,5 +59,5 @@
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/your-profile)  
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-05122A?logo=linkedin&logoColor=0A66C2](https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png))]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-ahmad-177252310/))  
 ✉️ m48ahmad@uwaterloo.ca  
