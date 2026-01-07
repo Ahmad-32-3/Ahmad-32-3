@@ -45,14 +45,14 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project       | Description                                                                 | Tech                              |
-|---------------|-----------------------------------------------------------------------------|-----------------------------------|
-| **Market Digest** | Real-time stock-news scraper & PyTorch Q&A insights                         | Python, Selenium, FLAN-T5, Streamlit |
-| **DevPing**      | GitHub Actions bot for branch-specific reviewer assignment & Slack alerts | Node.js, OctoKit, GitHub Actions  |
-| **SentioNet**    | TensorFlow/Keras sentiment-analysis on IMDB reviews                        | Python, TensorFlow, Keras         |
-| **DynaPath**     | 2D trajectory-dynamics calculator using orthogonal trigonometric analysis | Python                            |
+| Project    | Description    | Tech    |
+|---|---|---|
+| **Market Digest** | Real-time stock-news scraper & PyTorch Q&A insights | Python, Selenium, FLAN-T5, Streamlit |
+| **DevPing** | GitHub Actions bot that pings reviewers & sends real-time Slack notifications | Node.js, OctoKit, GitHub Actions |
+| **CleanSlate** | Data ingestion, cleaning & embedding scripts for semantic search and clustering | Python |
+| **ReviewInsight** | Analyzes product reviews to detect sentiment patterns using interpretable models | Python, Jupyter Notebook |
 
 [🔗 View all projects »](https://github.com/Ahmad-32-3?tab=repositories)
 
